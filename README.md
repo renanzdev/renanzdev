@@ -26,23 +26,23 @@ Since 2018, I’ve been deeply committed to the IT field, always pursuing contin
 
 - **Frontend**: React, HTML, CSS, Tailwind, JavaScript ES6+
 - **Backend**: Node.js, PHP, Java, Express
-- **Banco de Dados**: MySQL, PostgreSQL, SQLite
-- **Outros**: Git & GitHub, APIs RESTful, Docker (básico), CI/CD (básico)
+- **Databases**: MySQL, PostgreSQL, SQLite
+- **Others**: Git & GitHub, RESTful APIs, Docker, CI/CD
 
 ---
 
-## 📈 Objetivo
+## 📈 Goal
 
-Construir **produtos impactantes** que resolvem problemas reais, com **código limpo**, **arquitetura sólida** e **foco na experiência do usuário**. Estou sempre pronto para aprender, colaborar e crescer junto a projetos desafiadores.
+To build **impactful products** that solve real-world problems, with **clean code**, **solid architecture**, and a **focus on user experience**. I'm always ready to learn, collaborate, and grow with challenging projects.
 
 ---
 
-## 📬 Contato
+## 📬 Contact
 
 - LinkedIn: [linkedin.com/in/renandev](https://www.linkedin.com/in/renan-da-silva-rodrigues-b214a5360?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Biuqxl6juQzS3zkgA687UOw%3D%3D)
 - Email: [renangd.dev@gmail.com](mailto:renangd.dev@gmail.com)
 
 ---
 
-> “A melhor maneira de prever o futuro é criá-lo.” – Alan Kay
+> “The best way to predict the future is to invent it.” – Alan Kay
 
