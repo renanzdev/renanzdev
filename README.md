@@ -1,14 +1,14 @@
 # 🧑🏻‍💻 Renan Dev
 
-🎯 **Desenvolvedor Full-Stack | 17 anos**  
-💡 Transformo ideias em sistemas e produtos digitais de alto impacto.  
-📍 Apaixonado por tecnologia, programação e inovação desde 2018.
+🎯 **Full-Stack Developer | 17 years old**  
+💡 I turn ideas into high-impact digital systems and products..  
+📍 Passionate about technology, programming, and innovation since 2018.
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-Sou **Renan**, um desenvolvedor full-stack com forte domínio em tecnologias modernas como:
+I'm **Renan**, a full-stack developer with strong expertise in modern technologies such as:
 
 - **Java**
 - **JavaScript** (Node.js, React)
@@ -16,13 +16,13 @@ Sou **Renan**, um desenvolvedor full-stack com forte domínio em tecnologias mod
 - **SQL**
 - **HTML & CSS**
 
-Desenvolvo **aplicações completas, escaláveis e otimizadas**, integrando frontend e backend para oferecer soluções eficientes e de alto desempenho.
+I build **complete, scalable, and optimized applications**, integrating frontend and backend to deliver efficient and high-performance solutions.
 
-Desde 2018, venho me dedicando intensamente à área de TI, sempre buscando evolução contínua para entregar **resultados de alto nível** e contribuir com **excelência para empresa e o time**.
+Since 2018, I’ve been deeply committed to the IT field, always pursuing continuous improvement to deliver **high-level results** and contribute with **excellence to the company and the team**.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 - **Frontend**: React, HTML, CSS, Tailwind, JavaScript ES6+
 - **Backend**: Node.js, PHP, Java, Express
