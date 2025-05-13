@@ -18,7 +18,7 @@ Sou **Renan**, um desenvolvedor full-stack com forte domínio em tecnologias mod
 
 Desenvolvo **aplicações completas, escaláveis e otimizadas**, integrando frontend e backend para oferecer soluções eficientes e de alto desempenho.
 
-Desde 2018, venho me dedicando intensamente à área de TI, sempre buscando evolução contínua para entregar **resultados de alto nível** e contribuir com **excelência para times e empresas**.
+Desde 2018, venho me dedicando intensamente à área de TI, sempre buscando evolução contínua para entregar **resultados de alto nível** e contribuir com **excelência para empresa e o time**.
 
 ---
 
