@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Renan Rodríguez | Renan Dev
+# 🧑🏻‍💻 Renan Dev
 
 🎯 **Desenvolvedor Full-Stack | 17 anos**  
 💡 Transformo ideias em sistemas e produtos digitais de alto impacto.  
