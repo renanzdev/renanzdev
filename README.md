@@ -40,7 +40,7 @@ Construir **produtos impactantes** que resolvem problemas reais, com **código l
 ## 📬 Contato
 
 - LinkedIn: [linkedin.com/in/renandev](https://www.linkedin.com/in/renan-da-silva-rodrigues-b214a5360?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Biuqxl6juQzS3zkgA687UOw%3D%3D)
-- Email: [renangd.dev@email.com](mailto:renangd.dev@gmail.com)
+- Email: [renangd.dev@gmail.com](mailto:renangd.dev@gmail.com)
 
 ---
 
