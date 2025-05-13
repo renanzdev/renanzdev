@@ -1,4 +1,4 @@
-# 👨‍💻 Renan Rodríguez | Renan Dev
+# 🧑🏻‍💻 Renan Rodríguez | Renan Dev
 
 🎯 **Desenvolvedor Full-Stack | 17 anos**  
 💡 Transformo ideias em sistemas e produtos digitais de alto impacto.  
@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou o **Renan Rodríguez**, também conhecido como **Renan Dev**, um desenvolvedor full-stack com forte domínio em tecnologias modernas como:
+Sou **Renan**, um desenvolvedor full-stack com forte domínio em tecnologias modernas como:
 
 - **Java**
 - **JavaScript** (Node.js, React)
@@ -39,8 +39,8 @@ Construir **produtos impactantes** que resolvem problemas reais, com **código l
 
 ## 📬 Contato
 
-- LinkedIn: [linkedin.com/in/renan-dev](https://linkedin.com/in/renan-dev) *(adicione o link real se tiver)*
-- Email: [seuemail@email.com](mailto:seuemail@email.com)
+- LinkedIn: [linkedin.com/in/renan-dev](https://linkedin.com/in/renan-dev)
+- Email: [seuemail@email.com](mailto:renangd.dev@gmail.com)
 
 ---
 
