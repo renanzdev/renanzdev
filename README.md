@@ -1,48 +1,58 @@
-# 🧑🏻‍💻 Renan Dev
+<div align="left">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Developer Illustration" width="260" align="right" />
 
-🎯 **Full-Stack Developer | 17 years old**  
-💡 I turn ideas into high-impact digital systems and products..  
-📍 Passionate about technology, programming, and innovation since 2018.
+  <h1>Hi, I'm Renan 👋</h1>
+  <p><strong>Full-Stack Developer • Tech Creator</strong></p>
 
----
+  <br>
 
-## 🚀 About Me
+Welcome to my GitHub profile! I build complete, scalable, and optimized applications.
+  
+  <br>
 
-I'm **Renan**, a full-stack developer with strong expertise in modern technologies such as:
+  - 📍 Based in **João Pessoa, Brazil**
+  - 🎯 **18 years old**
+  - 💻 Active in the IT field since 2018
 
-- **Java**
-- **JavaScript** (Node.js, React)
-- **PHP**
-- **SQL**
-- **HTML & CSS**
+</div>
 
+<br clear="both">
+<hr>
+
+<h3 align="left">About Me</h3>
+
+I'm **Renan**, a full-stack developer with strong expertise in modern technologies
 I build **complete, scalable, and optimized applications**, integrating frontend and backend to deliver efficient and high-performance solutions.
 
-Since 2018, I’ve been deeply committed to the IT field, always pursuing continuous improvement to deliver **high-level results** and contribute with **excellence to the company and the team**.
+Since 2022, I’ve been deeply committed to the IT field, always pursuing continuous improvement to deliver **high-level results** and contribute with **excellence to the company and the team**.
 
 ---
 
-## 🛠️ Technologies & Tools
-
-- **Frontend**: React, HTML, CSS, Tailwind, JavaScript ES6+
-- **Backend**: Node.js, PHP, Java, Express
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Others**: Git & GitHub, RESTful APIs, Docker, CI/CD
-
----
-
-## 📈 Goal
-
-To build **impactful products** that solve real-world problems, with **clean code**, **solid architecture**, and a **focus on user experience**. I'm always ready to learn, collaborate, and grow with challenging projects.
+<h3 align="left">🛠 Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.mozilla.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,react,next,tailwind,vite,redux,nodejs,laravel,mysql,postgres,redis,prisma,git,docker,linux,nginx,cloudflare,vercel,postman&perline=11" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
-## 📬 Contact
+<h3 >📊 My Tech Analytics</h3>
 
-- LinkedIn: [linkedin.com/in/renandev](https://www.linkedin.com/in/renan-da-silva-rodrigues-b214a5360?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Biuqxl6juQzS3zkgA687UOw%3D%3D)
-- Email: [renangd.dev@gmail.com](mailto:renangd.dev@gmail.com)
+<p >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=renanzdev&theme=dracula&hide_border=true&stroke=0000&background=0D1117" alt="renanzdev GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renanzdev&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="renanzdev Top Languages" height="170"/>
+</p>
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/renanzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="berkinyilmaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/renanzdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berkinyilmaz" height="30" width="40" /></a>
+<a href="https://instagram.com/renann7d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berkindev" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="berkin_yilmaz" height="30" width="40" /></a>
+<a href="https://medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="berkinyilmaz" height="30" width="40" /></a>
+</p>
 
+If you want to collaborate, build something together, or just say hi: **renangd.dev@gmail.com**
