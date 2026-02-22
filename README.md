@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I build complete, scalable, and optimized applicat
 
   - 📍 Based in **João Pessoa, Brazil**
   - 🎯 **18 years old**
-  - 💻 Active in the IT field since 2018
+  - 💻 Active in the IT field since 2022
 
 </div>
 
